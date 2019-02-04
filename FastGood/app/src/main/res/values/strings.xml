@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Fast Good</string>
+    <string name="navigation_drawer_open">Open</string>
+
+    <string name="navigation_drawer_close">Close</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send">Send</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="home">Home</string>
+
+    <string name="invite_friends">Invite Friends</string>
+    <string name="about">About</string>
+
+    <string name="about_text"><![CDATA[<br/>Author: Haitham & Fares <br/><br/><br/>
+                                FastGood is an android application that was developed
+                                during an Android course in the Kinneret collage.<br/><br/>
+
+                                FastGood mainly serves students who are having daily
+                                struggles with lack of time. Therefore, this app comes
+                                to help them to find healthy,  tasty and quick recipes
+                                according to the ingredients they already have. <br/><br/>
+
+                                We(Haitham and Fares) are glad to introduce our first
+                                android application that may help our colleagues during
+                                their busy days.<br/><br/>
+
+                                January 2018]]>
+    </string>
+    <string name="title_activity_contact_provider">ContactProviderActivity</string>
+    <string name="search_title">Search title</string>
+    <string name="search">Search</string>
+    <string name="search_view">SearchView</string>
+    <string name="type_here">Type here</string>
+    <string name="quick_easy_recipes"><![CDATA[Quick & Easy Recipes]]></string>
+    <string name="dummy_text">Dummy Text</string>
+    <string name="title_activity_shopping_list">Shopping List</string>
+    <string name="sortlist">sortList</string>
+    <string name="addtolist">addToList</string>
+    <string name="sendlist">sendList</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps">STEPS</string>
+    <string name="search_hint">Search Ingredient or Recipe</string>
+
+    <string name="title_activity_strart">StrartActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+</resources>

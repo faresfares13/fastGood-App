@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:title="@string/sortlist"
+        android:id="@+id/sort"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_sort_alphabetically"/>
+
+    <item android:title="@string/sendlist"
+        android:id="@+id/sendList"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_send" />
+
+</menu>
